@@ -1,0 +1,6 @@
+# List Python libraries to be installed using pip in order t orun your code
+# [pip install -r requirements.txt] - How to install all packages specified in this file
+pandas
+numpy
+plotly
+streamlit

@@ -1,4 +1,6 @@
-# Data 606 Capstone Project
+# UMBC Data Science Capstone project
 
-- *Author* : Abdul Salam Kagaji
-- *Semester* : Spring 2023
+Provide some techincal background about this project. 
+
+Fro example, how this repo is structured, what technology is used, what libaries are used and how to run the code. 
+
