@@ -4,7 +4,9 @@
 
 ### 1. apps.csv
    
-   ### columns
+   This Dataset provides preliminary data regarding the apps on the google play store including the below mentioned details
+   
+   ### Dataset columns
    
    1.   App             : name of the app
    2.   Category        : category of the app
@@ -21,7 +23,7 @@
    13.  Android Ver     : android supported version
 
    
-- data source: Kaggle
-- data References: 
+### data source: Kaggle
+### data References: 
   1. https://www.kaggle.com/code/mohammedmurtuzalabib/android-app-market-on-google-play-analysis/data
 
