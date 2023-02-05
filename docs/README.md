@@ -1,3 +1,3 @@
 # Documentation Folder
 
-To store your proposal, PPT, and report.
+To store my proposal, PPT, and report.
