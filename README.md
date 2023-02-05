@@ -10,7 +10,7 @@
 
 There are mobile applications everywhere. They are simple to make and may be profitable. Because of these two considerations, an increasing number of applications are being produced. In this project, we will thoroughly study the Android app industry by comparing over ten thousand apps from Google Play store in various categories. We'll seek for insights in the data to develop growth and retention plans, as well as provide a competitive analysis.
 
-### objective 
+### Objective 
 
 To provide current market demand for the application or idea of an application, esmiated reach and download forecast, competition comparision in the similar genere apps in the leading market.
 
