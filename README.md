@@ -8,7 +8,7 @@ Fro example, how this repo is structured, what technology is used, what libaries
 - Semester  : Spring 2023
 - Campus Id : XH61938
 
-### Project Title : *Android application market analysis and app comparision guide*
+### Project Title : *Android application analysis and comparision guide*
 
 ### Project Overview
 
