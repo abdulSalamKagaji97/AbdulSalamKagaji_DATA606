@@ -1,21 +1,5 @@
 # Draft Proposal 
 
-This file is yourdraft proposal. 
-
-The following are the Guidelines. 
-
-For your project proposal, please use the following questions to guide your writing:
-
-- What is your issue of interest (provide sufficient background information)?
-- Why is this issue important to you and/or to others?
-- What questions do you have in mind and would like to answer?
-- Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
-- What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
-- What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?
-- What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
-- How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
-- What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)? 
-
 ## Project Title : Android application analysis and comparision guide
 ## Project Overview
 There are mobile applications everywhere. They are simple to make and may be profitable. Because of these two considerations, an increasing number of applications are being produced. In this project, we will thoroughly study the Android app industry by comparing over ten thousand apps from Google Play store in various categories. We'll seek for insights in the data to develop growth and retention plans, as well as provide a competitive analysis.
@@ -23,8 +7,65 @@ There are mobile applications everywhere. They are simple to make and may be pro
 ## Objective
 To provide current market demand for the application or idea of an application, esmiated reach and download forecast, competition comparision in the similar genere apps in the leading market.
 
-Technologies Used
-programming language : Python, react/streamlit (yet to decide on front-end framework)
-libraries : Pandas, Plotly, sklearn, scipy, flask
-algorithms : Regression, clustering and tree based classification and regression algorithms
-network protocols : REST api's
+## Technologies Used
+-programming language : Python, react/streamlit (yet to decide on front-end framework)
+-libraries : Pandas, Plotly, sklearn, scipy, flask, tf-idf
+-algorithms : Regression, clustering and tree based classification and regression algorithms
+-network protocols : REST api's
+
+## Expected outcome
+  1. Analysis of similar apps provided by the user based on the category, type(free or paid) and other features of the app.
+  2. Best suggestions for grabbing highest installs and reach in the users.
+  3. Suggestions of competitor apps in the similar category of apps.
+  4. An web based UI for user interaction and to take input from the users (for example, app name, app description, app category, app type, app price etc.)
+  
+
+## Techniques Used
+  1. Statistical approach for providing basic analytic for similar apps in the category selected by the user.
+  2. Tree based algorithms or ensembles to decide on whether the app should be paid or free to have the better reach in the audience users.
+  3. Using GridSearchCV or soft voding methods to select the best model for classification used in point 2.
+  4. Using Cosine similarty metrics to get most accurate alternative apps for the user provided app description / app title and category of the app.
+  5. A flask based backend for handling the REST request from the user via webpage 
+
+## Metrics for model evaluation
+  1. Accuracy and confusion matrix
+  2. Recall and Precision scores
+  3. ROC and AUC curve
+
+## Important input features for analysis
+  1. Category of the app
+  2. Type of the app
+  3. Rating and size of similar kind of apps.
+  4. Price of the app
+ 
+## Important output Features after analysis
+  1. Number of installations predicted
+  2. List of competetor apps in the market.
+
+## Dataset description:
+
+### 1. apps.csv
+   
+   This Dataset provides preliminary data regarding the apps on the google play store including the below mentioned details
+   
+   ### Dataset columns
+   
+   1.   App             : name of the app
+   2.   Category        : category of the app
+   3.   Rating          : Rating of the app
+   4.   Reviews         : number of reviews for the app
+   5.   Size            : size of the app
+   6.   Installs        : number of installations done / count of downloads
+   7.   Type            : Free or paid
+   8.   Price           : price of the app
+   9.   Content Rating  : age group of users who rated the app
+   10.  Genres          : gener of the app / similar to category
+   11.  Last Updated    : last updated date and time
+   12.  Current Ver     : version of the app
+   13.  Android Ver     : android supported version
+
+   
+### data source: Kaggle
+### data References: 
+  1. https://www.kaggle.com/code/mohammedmurtuzalabib/android-app-market-on-google-play-analysis/data
+
