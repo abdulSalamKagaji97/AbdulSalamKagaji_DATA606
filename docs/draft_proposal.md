@@ -8,10 +8,10 @@ There are mobile applications everywhere. They are simple to make and may be pro
 To provide current market demand for the application or idea of an application, esmiated reach and download forecast, competition comparision in the similar genere apps in the leading market.
 
 ## Technologies Used
--programming language : Python, react/streamlit (yet to decide on front-end framework)
--libraries : Pandas, Plotly, sklearn, scipy, flask, tf-idf
--algorithms : Regression, clustering and tree based classification and regression algorithms
--network protocols : REST api's
+- programming language : Python, react/streamlit (yet to decide on front-end framework)
+- libraries : Pandas, Plotly, sklearn, scipy, flask, tf-idf
+- algorithms : Regression, clustering and tree based classification and regression algorithms
+- network protocols : REST api's
 
 ## Expected outcome
   1. Analysis of similar apps provided by the user based on the category, type(free or paid) and other features of the app.
