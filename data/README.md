@@ -22,8 +22,16 @@
    12.  Current Ver     : version of the app
    13.  Android Ver     : android supported version
 
+### 2. AppDescriptions.csv
    
-### data source: Kaggle
+   This Dataset is generated using webscraping and contains two features as follows
+   
+   ### Dataset Columns
+   
+   1. App         : name of the app
+   2. Description : description of the app
+   
+### data source: Kaggle, Web scrapping webpages
 ### data References: 
   1. https://www.kaggle.com/code/mohammedmurtuzalabib/android-app-market-on-google-play-analysis/data
 
