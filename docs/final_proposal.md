@@ -33,7 +33,16 @@ Predecitve analysis on market capture and user reach of an app based on app cate
 
 ## Dataset description:
 
-### 1. apps.csv
+### 1. AppDescriptions.csv
+   
+   This Dataset is generated using *WebScraping* and contains two features as follows
+   
+   ### Dataset Columns
+   
+   1. App         : name of the app
+   2. Description : description of the app
+
+### 2. apps.csv
    
    This Dataset provides preliminary data regarding the apps on the google play store including the below mentioned details
    
@@ -53,14 +62,7 @@ Predecitve analysis on market capture and user reach of an app based on app cate
    12.  Current Ver     : version of the app
    13.  Android Ver     : android supported version
 
-### 2. AppDescriptions.csv
-   
-   This Dataset is generated using webscraping and contains two features as follows
-   
-   ### Dataset Columns
-   
-   1. App         : name of the app
-   2. Description : description of the app
+
    
 ### data source: Web scrapping webpages, Kaggle
 ### data References: 
