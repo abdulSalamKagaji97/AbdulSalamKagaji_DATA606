@@ -16,9 +16,8 @@ To provide current market demand for the application or idea of an application, 
 
 ### Technologies Used
 - programming language : Python, react/streamlit (yet to decide on front-end framework)
-- libraries : Pandas, Plotly, sklearn, scipy, flask
-- algorithms : Regression, clustering and tree based classification and regression algorithms
-- network protocols : REST api's
+- libraries : Pandas, Plotly, sklearn, scipy, streamlit
+- algorithms : Text based classification using SGD algorithms
 
 ### Repository Structure
 - data : directory for datasets.
