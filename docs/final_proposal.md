@@ -10,14 +10,14 @@ Predecitve analysis on market capture and user reach of an app based on app cate
 ## Important input features for analysis
   1. App Name
   2. App Description
-  3. App Category
 
 ## Expected outcome
   1. Predicted count of downloads/installs
   2. Predicted age group of the users
-  3. Predicting optimal size of the app for high installations
+  3. Predicting app type (free or paid)
   4. Predicting price of the app if user wants to make the app a paid service
   5. list of top 5 competeting apps in the same category of the app
+  6. Predicted app rating.
 
 ## Techniques Used
   1. Statistical approach for providing basic analytic for similar apps in the category selected by the user.
