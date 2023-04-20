@@ -70,8 +70,8 @@ Predecitve analysis on market capture and user reach of an app based on app cate
 
 
 ## Technologies Used
-- programming language : Python, react/streamlit (yet to decide on front-end framework)
-- libraries : Pandas, Plotly, sklearn, scipy, flask, tf-idf
-- algorithms : Regression, clustering and tree based classification and regression algorithms
-- network protocols : REST api's
+- programming language : Python
+- libraries : Pandas, Plotly, sklearn, scipy, streamlit, tf-idf
+- algorithms : Text based classification using SGD algorithms
+
 
