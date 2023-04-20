@@ -24,7 +24,7 @@ Predecitve analysis on market capture and user reach of an app based on app cate
   2. Tree based algorithms or ensembles to decide on whether the app should be paid or free to have the better reach in the audience users.
   3. Using GridSearchCV or soft voting methods to select the best model for classification used in point 2.
   4. Using Cosine similarty metrics to get most accurate alternative apps for the user provided app description / app title and category of the app.
-  5. A flask based backend for handling the REST request from the user via webpage 
+  5. Streamlit based user interface.
 
 ## Metrics for model evaluation
   1. Accuracy and confusion matrix
