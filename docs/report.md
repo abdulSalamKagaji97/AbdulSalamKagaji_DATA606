@@ -42,15 +42,15 @@ The merged dataset provides a comprehensive view of all the information gathered
 
 ## App Category Segregation:
 The app category segregation provides an insight into the number of apps available in each category and their respective ratings and reviews.
-![image1][]
+![image1][https://github.com/abdulSalamKagaji97/AbdulSalamKagaji_DATA606/blob/main/docs/images/bargraph1.png]
 
 ## Ratings of Paid and Free Apps per category:
 This section presents a comparison of the ratings and reviews of paid and free apps in each category.
-![image2][]
+![image2][https://github.com/abdulSalamKagaji97/AbdulSalamKagaji_DATA606/blob/main/docs/images/bargraph2.png]
 
 ## Attribute Correlations:
 The attribute correlations provide a correlation between the different attributes such as rating, reviews, and installs.
-![image3][]
+![image3][https://github.com/abdulSalamKagaji97/AbdulSalamKagaji_DATA606/blob/main/docs/images/correlation.png]
 
 ## Machine Learning Algorithm Used:
 The project uses the SGD classifier, a commonly used algorithm for text-based classification tasks, to predict app ratings, count of downloads/installs, and user age group.
@@ -66,8 +66,8 @@ The SGD classifier is a commonly used algorithm for text-based classification ta
 
 ## Machine Learning Pipeline:
 The machine learning pipeline includes data preprocessing, model training, and model evaluation.
-![image4][]
-![image5][]
+![image4][https://github.com/abdulSalamKagaji97/AbdulSalamKagaji_DATA606/blob/main/docs/images/pipeline2.png]
+![image5][https://github.com/abdulSalamKagaji97/AbdulSalamKagaji_DATA606/blob/main/docs/images/pipeline1.png]
 
 ## User Interface:
 The user interface allows users to input app details for analysis.
