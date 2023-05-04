@@ -15,6 +15,6 @@ To provide current market demand for the application or idea of an application, 
 ### Technologies Used
 - programming language : Python, streamlit
 - libraries : Pandas, Plotly, sklearn, scipy, flask
-- algorithms : Regression, clustering and tree based classification and regression algorithms
+- algorithms : Text based classification using SGD algorithms
 - network protocols : REST api's
 
