@@ -13,7 +13,7 @@ There are mobile applications everywhere. They are simple to make and may be pro
 To provide current market demand for the application or idea of an application, esmiated reach and download forecast, competition comparision in the similar genere apps in the leading market.
 
 ### Technologies Used
-- programming language : Python, react/streamlit (yet to decide on front-end framework)
+- programming language : Python, streamlit
 - libraries : Pandas, Plotly, sklearn, scipy, flask
 - algorithms : Regression, clustering and tree based classification and regression algorithms
 - network protocols : REST api's
