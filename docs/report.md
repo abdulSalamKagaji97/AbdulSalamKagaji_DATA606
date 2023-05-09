@@ -19,6 +19,10 @@ Youtube Link:
 
 https://youtu.be/vh7ULJjXz9g
 
+Trained SGD model Link:
+
+https://drive.google.com/drive/folders/1eq3mWO0g7I7ayOcSwS6bsBSVMrgzK4wP?usp=share_link
+
 ## Objective:
 The primary objective of this project is to provide insights and recommendations for developers to improve their app's user experience, functionality, and regular updates. With these insights, developers can create more accessible, engaging, and higher quality apps that meet users' needs and ultimately achieve greater success in the Android app market.
 
